@@ -3,7 +3,7 @@
  * Prints the literal text "OOPS" to console.
  *
  * @author Shreya
- * @version 1.0
+ * @version 1
  */
 public class OOPSBannerApp {
 
