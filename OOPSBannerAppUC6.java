@@ -1,7 +1,7 @@
 /**
  * OOPSBannerApp
  * UC6
- * Using String Array and Loop
+ * Using Functions
  * 
  *@author Shreya
  *@version 6
